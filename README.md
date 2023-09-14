@@ -38,7 +38,7 @@ To run this project on your local machine, follow these steps:
 1. Clone this repository to your local machine using `git clone`.
 
    ```bash
-   git clone https://github.com/yourusername/student-grading-system.git
+   git clone https://github.com/FreddyAssaf/student-grading-system.git
 
 2. Navigate to the project directory.
 
