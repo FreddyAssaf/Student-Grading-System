@@ -43,7 +43,7 @@ To run this project on your local machine, follow these steps:
 2. Navigate to the project directory.
 
    ```bash
-   cd student-grading-system-cpp
+   cd student-grading-system
 
 3. Compile the C++ source code.
 
@@ -54,6 +54,16 @@ To run this project on your local machine, follow these steps:
 
    ```bash
    ./student_grading_system
+Or:
+1. Clone this repository to your local machine using `git clone`.
+
+   ```bash
+   git clone https://github.com/FreddyAssaf/student-grading-system.git
+
+2. Open the project in your preferred IDE supporting C++ (e.g., Visual Studio Code).
+
+3. Build and run the `main.cpp` file to execute the program.
+
 
 ## Usage
 
